@@ -1,5 +1,7 @@
 # Legion Go Helper
 
+:earth_africa: **English** | [Русский](./README_RUS.md)
+
 **LegionGoHelper** is an assistant tool that will help you download and install everything you need in few clicks. You will also find there some useful (or not) tweaks for Windows.
 
 <a><img src="https://i.imgur.com/5Ta1198.png" title="source: imgur.com" width="65%"/></a>
